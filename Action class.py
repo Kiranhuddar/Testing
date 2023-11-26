@@ -14,18 +14,6 @@ action.context_click(driver.find_element(By.LINK_TEXT,"Top")).perform()
 action.move_to_element(driver.find_element(By.ID,"mousehover")).perform()
 action.context_click(driver.find_element(By.LINK_TEXT,"Reload")).click().perform()
 
-4
-45
-
-455
-44587
-78
-\8\
-    78
-87
-54
-78
-987
-4
+Kiran huddar hee ediya
 
 
